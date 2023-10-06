@@ -1,3 +1,5 @@
+![image](https://github.com/Yultek/awesome-monaverse/assets/7612104/dfccf394-beae-49d0-bbe3-0884be9b8b37)
+
 # awesome-monaverse
  Opensourced repo of scripts, tools, and plugins for the Mona community.
 
